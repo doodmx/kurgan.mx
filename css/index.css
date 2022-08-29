@@ -1,0 +1,17 @@
+.paint {
+    width: 90px; 
+    height: 40px; 
+    background: #10B9A8 0% 0% no-repeat padding-box; 
+    border-radius: 10px;
+    animation-name: paint;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes paint {
+    0%   {height: 80px}
+    25%  {height: 40px}
+    50%  {height: 80px}
+    100% {height: 40px}
+    0%   {height: 80PX}
+  }

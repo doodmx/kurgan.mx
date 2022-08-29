@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'RG_ultra_ligth';
+    src: url('../fonts/Ridley_Grotesk_UltraLight.otf');
+  }
+
+  @font-face {
+    font-family: 'heebo_medium';
+    src: url('../fonts/Heebo_Medium.ttf');
+  }
